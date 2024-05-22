@@ -15,20 +15,22 @@ body {
   padding: 0 4rem;
 }
 #page-1 {
-  background: url(California-heading-facts-625x416.jpg) no-repeat center;
+  background: url(California-heading-facts-625x416.jpg) no-repeat center
+    center/cover;
 }
 #page-2 {
-  background: url(chicago.jfif) no-repeat center;
+  background: url(chicago.jfif) no-repeat center center/cover;
 }
 #page-3 {
-  background: url(1333985-na-pali-coastline--kauai-hawaii.jpg) no-repeat center;
+  background: url(1333985-na-pali-coastline--kauai-hawaii.jpg) no-repeat center
+    center/cover;
 }
 #page-4 {
   background: url(California-residency-Expatriate-Tax-Return.jpg) no-repeat
-    center;
+    center center/cover;
 }
 #page-5 {
-  background: url(960x0.webp) no-repeat center;
+  background: url(960x0.webp) no-repeat center center/cover;
 }
 .page a {
   padding: 8px 20px;
